@@ -1,5 +1,3 @@
-Here’s a clean and professional **README.md** draft for your **“5th Semester Machine Learning Lab”** repository 👇
-
 # 🧠 5th Semester Machine Learning Lab
 
 This repository contains all the **Machine Learning experiments, model implementations, and analysis reports** completed during the **5th semester Machine Learning Laboratory** course.
@@ -7,64 +5,16 @@ It includes well-documented Python code, datasets, and detailed reports for each
 
 ---
 
-## 📂 Repository Structure
-
-```
-📦 Machine-Learning-Lab
-├── 📁 Experiment_01_Linear_Regression/
-│   ├── linear_regression.ipynb
-│   ├── report.pdf
-│   └── dataset.csv
-├── 📁 Experiment_02_Logistic_Regression/
-│   ├── logistic_regression.ipynb
-│   ├── report.pdf
-│   └── dataset.csv
-├── 📁 Experiment_03_Decision_Trees/
-│   ├── decision_tree.ipynb
-│   ├── report.pdf
-│   └── dataset.csv
-├── 📁 Experiment_04_KNN/
-│   ├── knn.ipynb
-│   ├── report.pdf
-│   └── dataset.csv
-├── 📁 Experiment_05_Naive_Bayes/
-│   ├── naive_bayes.ipynb
-│   ├── report.pdf
-│   └── dataset.csv
-├── 📁 Experiment_06_SVM/
-│   ├── svm.ipynb
-│   ├── report.pdf
-│   └── dataset.csv
-├── 📁 Experiment_07_KMeans/
-│   ├── kmeans_clustering.ipynb
-│   ├── report.pdf
-│   └── dataset.csv
-├── 📁 Experiment_08_PCA/
-│   ├── pca.ipynb
-│   ├── report.pdf
-│   └── dataset.csv
-├── 📁 Experiment_09_Random_Forest/
-│   ├── random_forest.ipynb
-│   ├── report.pdf
-│   └── dataset.csv
-└── README.md
-```
-
----
 
 ## 🧩 Experiments Included
 
-| No. | Experiment Title                   | Algorithm / Technique Used           |
-| --- | ---------------------------------- | ------------------------------------ |
-| 1   | Linear Regression                  | Simple & Multiple Linear Regression  |
-| 2   | Logistic Regression                | Binary Classification                |
-| 3   | Decision Trees                     | Gini Index, Information Gain         |
-| 4   | K-Nearest Neighbors                | Distance-based Classification        |
-| 5   | Naïve Bayes                        | Probabilistic Classification         |
-| 6   | Support Vector Machine (SVM)       | Linear and Non-linear Classification |
-| 7   | K-Means Clustering                 | Unsupervised Clustering              |
-| 8   | Principal Component Analysis (PCA) | Dimensionality Reduction             |
-| 9   | Random Forest                      | Ensemble Learning                    |
+| No. | Experiment Title                   
+| --- | ---------------------------------- 
+| 1   | Basics- Numpy and Pytorch
+| 2   | Decision Tree
+| 3   | Neural Netwrok
+| 4   | SVM
+
 
 ---
 
