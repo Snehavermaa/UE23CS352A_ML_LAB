@@ -14,6 +14,9 @@ It includes well-documented Python code, datasets, and detailed reports for each
 | 2   | Decision Tree
 | 3   | Neural Netwrok
 | 4   | SVM
+| 5   | Naive Bayers
+| 6   | Classifiers
+
 
 
 ---
